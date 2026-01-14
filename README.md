@@ -46,4 +46,3 @@ light:
 
 ### esphome
 - https://github.com/esphome/esphome/blob/dev/esphome/components/light/light_state.cpp
-
